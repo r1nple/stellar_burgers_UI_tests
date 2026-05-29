@@ -1,4 +1,4 @@
-import apiClient.UserClient;
+import api.client.UserClient;
 import constants.Endpoints;
 import constants.LoginEntryPoint;
 import generators.UserGenerator;

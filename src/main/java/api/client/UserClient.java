@@ -1,4 +1,4 @@
-package apiClient;
+package api.client;
 
 import constants.Endpoints;
 import io.qameta.allure.Step;
